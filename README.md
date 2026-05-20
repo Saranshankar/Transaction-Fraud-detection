@@ -2,6 +2,7 @@
 Smart fraud detection web app that analyzes transaction details and predicts fraud risk using Machine Learning. Includes real-time predictions, probability scoring, and interactive UI.
 
 Online Transaction Fraud Detection System
+
  Overview:
 
 This project is a Machine Learning-based Web Application that detects fraudulent online transactions. It uses a trained Random Forest Classifier to analyze transaction details and predict whether a transaction is fraudulent or legitimate.
